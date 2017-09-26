@@ -2,9 +2,9 @@
   "name": "patternengine-node-vue",
   "description": "The Vue engine for Pattern Lab / Node",
   "version": "0.0.1",
-  "main": "lib/engine_mustache.js",
+  "main": "lib/engine_vue.js",
   "dependencies": {
-    "mustache": "^2.2.0"
+    "vue": "^2.4.4"
   },
   "devDependencies": {},
   "keywords": [
@@ -23,9 +23,7 @@
   "bugs": "https://github.com/KatieMFritz/patternengine-node-vue/issues",
   "author": "Katie Fritz",
   "license": "MIT",
-  "scripts": {
-
-    },
+  "scripts": {},
   "engines": {
     "node": ">=0.1"
   }
