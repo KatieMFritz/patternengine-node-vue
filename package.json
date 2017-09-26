@@ -1,7 +1,7 @@
 {
-  "name": "patternengine-node-mustache",
-  "description": "The Mustache engine for Pattern Lab / Node",
-  "version": "1.0.2",
+  "name": "patternengine-node-vue",
+  "description": "The Vue engine for Pattern Lab / Node",
+  "version": "0.0.1",
   "main": "lib/engine_mustache.js",
   "dependencies": {
     "mustache": "^2.2.0"
@@ -14,18 +14,18 @@
     "Grunt",
     "Gulp",
     "Javascript",
-    "Mustache"
+    "Vue"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/pattern-lab/patternengine-node-mustache.git"
+    "url": "https://github.com/KatieMFritz/patternengine-node-vue.git"
   },
-  "bugs": "https://github.com/pattern-lab/patternlab-node/issues",
-  "author": "Brian Muenzenmeyer & Geoffrey Pursell",
+  "bugs": "https://github.com/KatieMFritz/patternengine-node-vue/issues",
+  "author": "Katie Fritz",
   "license": "MIT",
   "scripts": {
-    "test": "grunt travis --verbose"
-  },
+
+    },
   "engines": {
     "node": ">=0.1"
   }
